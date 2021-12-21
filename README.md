@@ -2,7 +2,7 @@
 
 Application of a finance manager developed in [Rocketseat's](https://www.rocketseat.com.br/) _Ignite ReactJS_ course using ReactJS and TypeScript.
 
-![Project Cover](src\assets\dtmoney-ignite.png)
+![Project Cover](src/assets/dtmoney-ignite.png)
 
 # Getting Started
 
